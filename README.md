@@ -1,5 +1,7 @@
-Hi, my name is Cody!
+Hi! My name is Cody Jones.
 
-- I'm actively applying for junior software engineering roles.
-- My academic background is in physics and mathematics.
-- My favorite programming languages are C and C++.
+- My favorite programming language is C. It was "love at first segmentation fault".
+- My academic background is in physics and mathematics. As a result, I have always loved the theoretical side of computer science.
+- I am keenly interested in the intersection between finance and technology. I believe this is where technology finds its maximum power and raison d'être.
+
+Don't hesitate to contact me at codymjones@pm.me for opportunities to collaborate.
