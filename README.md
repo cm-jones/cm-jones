@@ -1,4 +1,4 @@
-Hi! My name is Cody Jones.
+Hi! My name is Cody Jones. 👋
 
 - My favorite programming language is C. It was "love at first segmentation fault".
 - My academic background is in physics and mathematics. As a result, I have always loved the theoretical side of computer science.
