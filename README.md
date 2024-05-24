@@ -9,4 +9,6 @@ My name is Cody Jones and I'm a software developer based in Chicago.
 Please don't hesitate to contact me at codymjones@pm.me or connect with me on [LinkedIn](https://linkedin.com/in/cm-jones) for opportunities to collaborate.
 
 ![](https://raw.githubusercontent.com/cm-jones/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/cm-jones/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/cm-jones/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
