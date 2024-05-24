@@ -1,6 +1,6 @@
 Hey! 👋
 
-My name is Cody and I'm a software developer based in Chicago.
+My name is Cody and I'm a software engineer based in Chicago.
 
 - My favorite programming language is C. It was "love at first segmentation fault".
 - My academic background is in physics and math. As a result, I've always loved the theoretical side of computer science.
