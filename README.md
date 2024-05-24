@@ -1,6 +1,6 @@
 Hey! 👋🏻
 
-My name is Cody and I'm a software developer based in Chicago, IL, USA.
+My name is Cody and I'm a software engineer based in Chicago, IL, USA.
 
 Some facts about me:
 
