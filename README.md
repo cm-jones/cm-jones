@@ -1,26 +1,26 @@
-## 👋🏻  About Me
+## 👋 About Me
 
 Hey! My name is Cody and I'm a software engineer based in Chicago, IL, USA.
 
 Some facts about me:
 
 - My academic background is in physics and mathematics (I have a B.S. in Computational Physics), so I've always had a passion for the theoretical side of computer science.
-- My favorite programming language is C. It was "love at first segmentation fault". I love interacting with hardware from a software perspective.
-- My professional interests lie at the intersection between technology and finance. I'm currently working on an algorithmic options trading bot (see options-bot below).
+- My favorite programming language is C. It was "love at first segmentation fault". I love working as close as possible to the hardware from a software perspective.
+- My professional interests lie at the intersection between technology and finance. I'm currently working on an algorithmic options trading bot (see options-bot below). It's my ambition to one day start my own company.
 
-## 👨🏼‍💻  Personal Projects
+## 👨‍💻 Personal Projects
 
-- [libdsc](https://github.com/cm-jones/libdsc) (released)
-- [lincpp](https://github.com/cm-jones/lincpp) (in progress)
-- [options-bot](https://github.com/cm-jones/options-bot) (in progress)
-- [mta-tracker](https://github.com/cm-jones/mta-tracker) (released)
+- [libdsc](https://github.com/cm-jones/libdsc) (released): implementations of essential data structures not found in the C standard library
+- [lincpp](https://github.com/cm-jones/lincpp) (in progress): a numerical linear algebra library for C++
+- [options-bot](https://github.com/cm-jones/options-bot) (in progress): an algorithmic options trading bot
+- [mta-tracker](https://github.com/cm-jones/mta-tracker) (released): an Android app displaying information about train arrivals on the NYC Subway
 
-## 🤝  Contributions to Open-Source Projects
+## 🤝 Contributions to Open-Source Projects
 
 Although working on personal projects is fun in its own way, there's nothing more rewarding than building something cool with a group of smart people. Here are just some of the open-source projects I've contributed to:
 
-- [axel](https://github.com/axel-download-accelerator/axel)
-- [openssl](https://github.com/openssl/openssl)
+- [axel](https://github.com/axel-download-accelerator/axel): a CLI download accelerator
+- [openssl](https://github.com/openssl/openssl): the well-known TLS/SSL and crypto library
 
 ## 📞  Contact Me
 
