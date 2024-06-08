@@ -1,14 +1,27 @@
 # About Me
 
-I'm a software engineer based in Chicago, IL, USA.
+I'm a software engineer based in Chicago.
 
-Some facts about me:
+## Education
 
-- My favorite programming language is C. It was "love at first segmentation fault".
-- My academic background is in physics and mathematics. As a result, I've always loved theoretical computer science.
-- I'm interested in the intersection between finance and technology. I believe finance is where technology finds its maximum power.
+I have a B.S. in Computational Physics from the University of Illinois at Urbana-Champaign.
 
-Please don't hesitate to contact me at codymjones@pm.me or connect with me on [LinkedIn](https://linkedin.com/in/cm-jones) for opportunities to collaborate.
+## Projects
+
+- libdsc
+- lincpp
+- options-bot
+- mta-tracker
+
+## Contributions
+
+- axel
+- openssl
+
+## Contact
+
+- codymjones@pm.me
+- [LinkedIn](https://linkedin.com/in/cm-jones)
 
 ![](https://raw.githubusercontent.com/cm-jones/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/cm-jones/github-stats/master/generated/languages.svg#gh-light-mode-only)
