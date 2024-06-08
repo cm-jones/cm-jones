@@ -17,7 +17,7 @@ Some facts about me:
 
 ## 🤝 Contributions to Open-Source Projects
 
-Although working on personal projects is fun in its own way, there's nothing more rewarding than building something cool with a group of smart people. Here are just some of the open-source projects I've contributed to:
+Working on personal projects is fun, but there's nothing more fulfilling than building something cool with a bunch of smart people. Here are just some of the open-source projects I've contributed to:
 
 - [axel](https://github.com/axel-download-accelerator/axel): a CLI download accelerator
 - [openssl](https://github.com/openssl/openssl): the well-known TLS/SSL and crypto library
