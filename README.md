@@ -10,10 +10,10 @@ Some facts about me:
 
 ## 👨‍💻 Personal Projects
 
-- [x] [libdsc](https://github.com/cm-jones/libdsc) (released): implementations of data structures not found in `libc`
-- [ ] [lincpp](https://github.com/cm-jones/lincpp) (in progress): a numerical linear algebra library
-- [ ] [options-bot](https://github.com/cm-jones/options-bot) (in progress): an algorithmic options trading bot
-- [x] [mta-tracker](https://github.com/cm-jones/mta-tracker) (released): an Android app displaying information about train arrivals on the NYC Subway
+- [libdsc](https://github.com/cm-jones/libdsc) (released): implementations of data structures not found in `libc`
+- [lincpp](https://github.com/cm-jones/lincpp) (in progress): a numerical linear algebra library
+- [options-bot](https://github.com/cm-jones/options-bot) (in progress): an algorithmic options trading bot
+- [mta-tracker](https://github.com/cm-jones/mta-tracker) (released): an Android app displaying information about train arrivals on the NYC Subway
 
 ## 🤝 Open-Source Contributions
 
