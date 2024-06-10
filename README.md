@@ -24,7 +24,7 @@ Working on personal projects is fun, but there's nothing more rewarding than bui
 
 ## Contact Me
 
-Please don't hesitate to contact me at codymjones@pm.me or connect with me on [LinkedIn](https://linkedin.com/in/cm-jones) for opportunities to collaborate. Let's build something together!
+Please don't hesitate to send me an email at codymjones@pm.me or connect with me on [LinkedIn](https://linkedin.com/in/cm-jones) for opportunities to collaborate.
 
 ![](https://raw.githubusercontent.com/cm-jones/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/cm-jones/github-stats/master/generated/languages.svg#gh-light-mode-only)
