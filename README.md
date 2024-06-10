@@ -15,9 +15,9 @@ Some facts about me:
 - [options-bot](https://github.com/cm-jones/options-bot) (in progress): an algorithmic options trading bot
 - [mta-tracker](https://github.com/cm-jones/mta-tracker) (released): an Android app displaying information about train arrivals on the NYC Subway
 
-## 🤝 Contributions to Open-Source Projects
+## 🤝 Open-Source Contributions
 
-Working on personal projects is fun, but there's nothing more fulfilling than building something cool with a bunch of smart people. Here are just some of the open-source projects I've contributed to:
+Working on personal projects is fun, but there's nothing more rewarding than building something cool with a group of smart people. Here are some of the projects I've contributed to:
 
 - [axel](https://github.com/axel-download-accelerator/axel): a CLI download accelerator
 - [openssl](https://github.com/openssl/openssl): the well-known TLS/SSL and crypto library
