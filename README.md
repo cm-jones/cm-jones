@@ -17,7 +17,7 @@ Some facts about me:
 
 ## Open-Source Contributions
 
-- [`axe`l](https://github.com/axel-download-accelerator/axel): a CLI download accelerator
+- [`axel`](https://github.com/axel-download-accelerator/axel): a CLI download accelerator
 - [`openssl`](https://github.com/openssl/openssl): the well-known TLS/SSL and crypto library
 
 ## Contact Me
