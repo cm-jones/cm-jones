@@ -6,13 +6,13 @@ Some facts about me:
 
 - My academic background is in physics and mathematics.
 - My favorite programming language is C. It was "love at first segfault".
-- I'd love to work in fintech. I'm currently working on an algorithmic options trading bot (see `options-bot` below).
+- I'd love to work in fintech. I'm currently working on an algorithmic options trading bot (see `thales` below).
 
 ## Personal Projects
 
 - [libdsc](https://github.com/cm-jones/libdsc) (v0.1.0-alpha released): implementations of data structures not found in the C standard library
 - [lincpp](https://github.com/cm-jones/lincpp) (in progress): a numerical linear algebra library
-- [options-bot](https://github.com/cm-jones/options-bot) (in progress): an algorithmic options trading bot
+- [thales](https://github.com/cm-jones/options-bot) (in progress): an algorithmic options trading bot
 - [mta-tracker](https://github.com/cm-jones/mta-tracker) (released): an Android app displaying information about train arrivals on the NYC Subway
 
 ## Open-Source Contributions
