@@ -4,9 +4,9 @@ Hey! My name is Cody and I'm a software engineer based in Chicago, IL, USA.
 
 Some facts about me:
 
-- My academic background is in physics and mathematics.
-- My favorite programming language is C. It was "love at first segfault".
-- I'd love to work in fintech. I'm currently working on an algorithmic options trading bot (see `thales` below).
+- My academic background is in physics.
+- My favorite programming language is C. It was "love at first segmentation fault".
+- Ideally, I'd like to work in fintech. I'm currently working on an options trading bot (see `thales` below).
 
 ## Personal Projects
 
@@ -22,7 +22,7 @@ Some facts about me:
 
 ## Contact Me
 
-Please don't hesitate to contact me at codymjones@pm.me or connect with me on [LinkedIn](https://linkedin.com/in/cm-jones) for opportunities to collaborate.
+Don't hesitate to contact me at codymjones@pm.me or connect with me on [LinkedIn](https://linkedin.com/in/cm-jones) for opportunities to collaborate.
 
 ![](https://raw.githubusercontent.com/cm-jones/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/cm-jones/github-stats/master/generated/languages.svg#gh-light-mode-only)
