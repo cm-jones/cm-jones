@@ -22,4 +22,4 @@ Some facts about me:
 
 ## Contact Me
 
-Don't hesitate to contact me at codymjones@pm.me or connect with me on [LinkedIn](https://linkedin.com/in/cm-jones) for opportunities to collaborate.
+Please don't hesitate to contact me at codymjones@pm.me or connect with me on [LinkedIn](https://linkedin.com/in/cm-jones) for opportunities to collaborate.
