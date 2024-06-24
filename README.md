@@ -2,8 +2,6 @@
 
 My name is Cody and I'm a software engineer based in Chicago, IL, USA.
 
-Some facts about me:
-
 - My academic background is in physics and math.
 - My favorite programming language is C. It was "love at first segmentation fault".
 - I'd love to work in fintech. I'm currently working on an options trading bot (see `thales` below).
