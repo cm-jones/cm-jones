@@ -12,7 +12,7 @@ Some facts about me:
 
 - [thales](https://github.com/cm-jones/thales) (in progress): an algorithmic options trading bot
 - [libdsc](https://github.com/cm-jones/libdsc) (released): implementations of data structures not found in the C standard library
-- [lincpp](https://github.com/cm-jones/lincpp) (in progress): a numerical linear algebra library
+- [cramer](https://github.com/cm-jones/cramer) (in progress): a numerical linear algebra library
 - [mta-tracker](https://github.com/cm-jones/mta-tracker) (released): a mobile app displaying information about train arrivals on the NYC Subway system
 
 ## Open-Source Contributions
