@@ -1,6 +1,6 @@
 ## About Me
 
-I'm currently working as a software engineer at Panama, an augmented reality startup in Chicago.
+I'm currently working as a software engineer at Panama, an augmented reality startup.
 
 Some facts about me:
 
