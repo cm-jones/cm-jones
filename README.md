@@ -4,16 +4,16 @@ My name is Cody and I'm a software engineer based in Chicago, IL, USA.
 
 Some facts about me:
 
-- My academic background is in physics.
+- My academic background is in physics and math.
 - My favorite programming language is C. It was "love at first segmentation fault".
-- Ideally, I'd like to work in fintech. I'm currently working on an options trading bot (see `thales` below).
+- I'd love to work in fintech. I'm currently working on an options trading bot (see `thales` below).
 
 ## Personal Projects
 
 - [thales](https://github.com/cm-jones/thales) (in progress): an algorithmic options trading bot
 - [libdsc](https://github.com/cm-jones/libdsc) (released): implementations of data structures not found in the C standard library
 - [lincpp](https://github.com/cm-jones/lincpp) (in progress): a numerical linear algebra library
-- [mta-tracker](https://github.com/cm-jones/mta-tracker) (released): an Android app displaying information about train arrivals on the NYC Subway
+- [mta-tracker](https://github.com/cm-jones/mta-tracker) (released): a mobile app displaying information about train arrivals on the NYC Subway system
 
 ## Open-Source Contributions
 
