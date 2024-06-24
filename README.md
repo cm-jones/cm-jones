@@ -8,7 +8,7 @@ Some facts about me:
 - My favorite programming language is C. It was "love at first segmentation fault".
 - I'd love to work in fintech. I'm currently working on an options trading bot (see `thales` below).
 
-## Personal Projects
+## Projects
 
 - [thales](https://github.com/cm-jones/thales) (in progress): an algorithmic options trading bot
 - [libdsc](https://github.com/cm-jones/libdsc) (released): implementations of data structures not found in the C standard library
