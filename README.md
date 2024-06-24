@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Cody and I'm currently working as a software engineer at an augmented reality startup called Panama, Inc. in Chicago, IL, USA.
+My name is Cody and I'm currently working as a software engineer at an augmented reality startup called Panama, Inc.
 
 - My academic background is in physics and math.
 - My favorite programming language is C. It was "love at first segmentation fault".
