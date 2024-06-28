@@ -1,4 +1,4 @@
-I'm currently working as a software engineer at an augmented reality startup called Panama.
+I'm currently working as a software engineer at an augmented reality startup.
 
 Some facts about me:
 
