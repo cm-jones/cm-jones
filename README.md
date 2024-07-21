@@ -2,7 +2,7 @@ Hi! I'm currently working as a software engineer at an augmented reality startup
 
 Some facts about me:
 
-- My academic background is in physics and math.
+- My academic background is in physics and mathematics.
 - My favorite programming language is C. It was "love at first segfault".
 - I'm building an [options trading bot](https://github.com/cm-jones/thales).
 
