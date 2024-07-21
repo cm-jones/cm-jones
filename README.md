@@ -1,4 +1,4 @@
-Hi! My name is Cody.
+I'm currently working as a software engineer at an augmented reality startup in Chicago.
 
 Some facts about me:
 
