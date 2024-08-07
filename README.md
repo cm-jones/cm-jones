@@ -1,4 +1,4 @@
-I'm currently working as a software engineer for an augmented reality startup in Chicago.
+I'm currently working as a software engineer at Panama, Inc.
 
 - My academic background is in physics and mathematics.
 - My favorite programming language is C. It was "love at first segfault".
