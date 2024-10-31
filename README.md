@@ -1,4 +1,4 @@
-I'm currently working as a software engineer at Panama, Inc.
+I'm a software engineer at Panama, Inc.
 
 Some facts about me:
 
